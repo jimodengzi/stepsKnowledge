@@ -163,7 +163,6 @@ C:\Users\lpd\Documents\note\stepsKnowledge
 （3）执行指令将文件添加到本地仓库：
 
     $ git add .         //添加当前文件夹下的所有文件
-    $ git add **.cpp    //添加当前文件夹下的**.cpp这个文件
 
 （4）输入本次的提交说明，准备提交暂存区中的更改的已跟踪文件，单引号内为说明内容：
 
@@ -186,20 +185,20 @@ C:\Users\lpd\Documents\note\stepsKnowledge
    $ git remote add origin https://github.com/jimodengzi/stepsKnowledge.git
 ```
 
- 
+
 注意：
 
 如果出现错误：fatal: remote origin already exists，则执行以下语句：
 
     $ git remote rm origin
- 
+
 再重新执行：
 
 ```
  $ git remote add origin https://github.com/jimodengzi/stepsKnowledge.git
 ```
 
- 
+
 即可成功。
 
 最后执行命令：
@@ -211,4 +210,3 @@ C:\Users\lpd\Documents\note\stepsKnowledge
 
 
 刷新github，即可看到上传的文件夹。
- 
