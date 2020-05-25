@@ -172,7 +172,7 @@ C:\Users\lpd\Documents\note\stepsKnowledge
 在github中新建一个repository，复制仓库地址：
 
 ```
-如:https://github.com/jimodengzi/stepsKnowledge.git
+https://github.com/jimodengzi/stepsKnowledge.git
 ```
 
 
